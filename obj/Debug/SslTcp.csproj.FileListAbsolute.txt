@@ -1,0 +1,165 @@
+D:\repos\DonorFunc\bin\Debug\SslTcp.exe.config
+D:\repos\DonorFunc\bin\Debug\SslTcp.exe
+D:\repos\DonorFunc\bin\Debug\SslTcp.pdb
+D:\repos\DonorFunc\obj\Debug\SslTcp.csprojAssemblyReference.cache
+D:\repos\DonorFunc\obj\Debug\SslTcp.csproj.CoreCompileInputs.cache
+D:\repos\DonorFunc\obj\Debug\SslTcp.exe
+D:\repos\DonorFunc\obj\Debug\SslTcp.pdb
+D:\repos\SslTcpServ+Clnt\bin\Debug\SslTcp.exe.config
+D:\repos\SslTcpServ+Clnt\bin\Debug\SslTcp.exe
+D:\repos\SslTcpServ+Clnt\bin\Debug\SslTcp.pdb
+D:\repos\SslTcpServ+Clnt\obj\Debug\SslTcp.csproj.CoreCompileInputs.cache
+D:\repos\SslTcpServ+Clnt\obj\Debug\SslTcp.exe
+D:\repos\SslTcpServ+Clnt\obj\Debug\SslTcp.pdb
+D:\repos\SslTcpServ+Clnt\bin\Debug\System.Memory.dll
+D:\repos\SslTcpServ+Clnt\bin\Debug\System.Text.Json.dll
+D:\repos\SslTcpServ+Clnt\bin\Debug\System.Numerics.Vectors.dll
+D:\repos\SslTcpServ+Clnt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\repos\SslTcpServ+Clnt\bin\Debug\System.Buffers.dll
+D:\repos\SslTcpServ+Clnt\bin\Debug\System.Text.Encodings.Web.dll
+D:\repos\SslTcpServ+Clnt\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\repos\SslTcpServ+Clnt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\repos\SslTcpServ+Clnt\obj\Debug\SslTcp.exe.config
+D:\repos\SslTcpServ+Clnt\obj\Debug\SslTcp.csproj.CopyComplete
+J:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\SslTcp.exe.config
+J:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\SslTcp.exe
+J:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\SslTcp.pdb
+J:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\System.Memory.dll
+J:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\System.Text.Json.dll
+J:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\System.Numerics.Vectors.dll
+J:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+J:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\System.Buffers.dll
+J:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\System.Text.Encodings.Web.dll
+J:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\System.Threading.Tasks.Extensions.dll
+J:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+J:\AllProjects\repos\SslTcpServ+Clnt\obj\Debug\SslTcp.csproj.AssemblyReference.cache
+J:\AllProjects\repos\SslTcpServ+Clnt\obj\Debug\SslTcp.exe.config
+J:\AllProjects\repos\SslTcpServ+Clnt\obj\Debug\SslTcp.csproj.CoreCompileInputs.cache
+J:\AllProjects\repos\SslTcpServ+Clnt\obj\Debug\SslTcp.csproj.CopyComplete
+J:\AllProjects\repos\SslTcpServ+Clnt\obj\Debug\SslTcp.exe
+J:\AllProjects\repos\SslTcpServ+Clnt\obj\Debug\SslTcp.pdb
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\SslTcp.exe.config
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\SslTcp.exe
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\SslTcp.pdb
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\System.Memory.dll
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\System.Text.Json.dll
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\System.Numerics.Vectors.dll
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\System.Buffers.dll
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\System.Text.Encodings.Web.dll
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\AllProjects\repos\SslTcpServ+Clnt\obj\Debug\SslTcp.exe.config
+F:\AllProjects\repos\SslTcpServ+Clnt\obj\Debug\SslTcp.csproj.CoreCompileInputs.cache
+F:\AllProjects\repos\SslTcpServ+Clnt\obj\Debug\SslTcp.csproj.CopyComplete
+F:\AllProjects\repos\SslTcpServ+Clnt\obj\Debug\SslTcp.exe
+F:\AllProjects\repos\SslTcpServ+Clnt\obj\Debug\SslTcp.pdb
+F:\AllProjects\repos\SslTcpServ+Clnt\obj\Debug\SslTcp.csprojAssemblyReference.cache
+F:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\SslTcp.exe.config
+F:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\SslTcp.exe
+F:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\SslTcp.pdb
+F:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\System.Memory.dll
+F:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\System.Text.Json.dll
+F:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\System.Numerics.Vectors.dll
+F:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\System.Buffers.dll
+F:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\System.Text.Encodings.Web.dll
+F:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\AllProjects\repos\SSL_client+serv\SslTcpServ\obj\Debug\SslTcp.exe.config
+F:\AllProjects\repos\SSL_client+serv\SslTcpServ\obj\Debug\SslTcp.csproj.CoreCompileInputs.cache
+F:\AllProjects\repos\SSL_client+serv\SslTcpServ\obj\Debug\SslTcp.csproj.CopyComplete
+F:\AllProjects\repos\SSL_client+serv\SslTcpServ\obj\Debug\SslTcp.exe
+F:\AllProjects\repos\SSL_client+serv\SslTcpServ\obj\Debug\SslTcp.pdb
+J:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\SslTcp.exe.config
+J:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\SslTcp.exe
+J:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\SslTcp.pdb
+J:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\System.Memory.dll
+J:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\System.Text.Json.dll
+J:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\System.Numerics.Vectors.dll
+J:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\System.Buffers.dll
+J:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\System.Text.Encodings.Web.dll
+J:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\System.Threading.Tasks.Extensions.dll
+J:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+J:\AllProjects\repos\SSL_client+serv\SslTcpServ\obj\Debug\SslTcp.exe.config
+J:\AllProjects\repos\SSL_client+serv\SslTcpServ\obj\Debug\SslTcp.csproj.CoreCompileInputs.cache
+J:\AllProjects\repos\SSL_client+serv\SslTcpServ\obj\Debug\SslTcp.csproj.CopyComplete
+J:\AllProjects\repos\SSL_client+serv\SslTcpServ\obj\Debug\SslTcp.exe
+J:\AllProjects\repos\SSL_client+serv\SslTcpServ\obj\Debug\SslTcp.pdb
+J:\AllProjects\repos\SSL_client+serv\SslTcpServ\obj\Debug\SslTcp.csproj.AssemblyReference.cache
+F:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\AllProjects\repos\SSL_client+serv\SslTcpServ\obj\Debug\SslTcp.csprojAssemblyReference.cache
+J:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+J:\AllProjects\repos\SSL_client+serv\SslTcpServ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\1\source\repos\клиент-сервер фото\SslTcpServ\bin\Debug\SslTcp.exe.config
+C:\Users\1\source\repos\клиент-сервер фото\SslTcpServ\bin\Debug\SslTcp.exe
+C:\Users\1\source\repos\клиент-сервер фото\SslTcpServ\bin\Debug\SslTcp.pdb
+C:\Users\1\source\repos\клиент-сервер фото\SslTcpServ\bin\Debug\System.Memory.dll
+C:\Users\1\source\repos\клиент-сервер фото\SslTcpServ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1\source\repos\клиент-сервер фото\SslTcpServ\bin\Debug\System.Text.Json.dll
+C:\Users\1\source\repos\клиент-сервер фото\SslTcpServ\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\1\source\repos\клиент-сервер фото\SslTcpServ\bin\Debug\System.Buffers.dll
+C:\Users\1\source\repos\клиент-сервер фото\SslTcpServ\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\1\source\repos\клиент-сервер фото\SslTcpServ\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\1\source\repos\клиент-сервер фото\SslTcpServ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\source\repos\клиент-сервер фото\SslTcpServ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\1\source\repos\клиент-сервер фото\SslTcpServ\obj\Debug\SslTcp.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\клиент-сервер фото\SslTcpServ\obj\Debug\SslTcp.exe.config
+C:\Users\1\source\repos\клиент-сервер фото\SslTcpServ\obj\Debug\SslTcp.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\клиент-сервер фото\SslTcpServ\obj\Debug\SslTcp.csproj.CopyComplete
+C:\Users\1\source\repos\клиент-сервер фото\SslTcpServ\obj\Debug\SslTcp.exe
+C:\Users\1\source\repos\клиент-сервер фото\SslTcpServ\obj\Debug\SslTcp.pdb
+C:\Users\1\source\repos\client_serv\SslTcpServ\bin\Debug\SslTcp.exe.config
+C:\Users\1\source\repos\client_serv\SslTcpServ\bin\Debug\SslTcp.exe
+C:\Users\1\source\repos\client_serv\SslTcpServ\bin\Debug\SslTcp.pdb
+C:\Users\1\source\repos\client_serv\SslTcpServ\bin\Debug\System.Memory.dll
+C:\Users\1\source\repos\client_serv\SslTcpServ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1\source\repos\client_serv\SslTcpServ\bin\Debug\System.Text.Json.dll
+C:\Users\1\source\repos\client_serv\SslTcpServ\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\1\source\repos\client_serv\SslTcpServ\bin\Debug\System.Buffers.dll
+C:\Users\1\source\repos\client_serv\SslTcpServ\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\1\source\repos\client_serv\SslTcpServ\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\1\source\repos\client_serv\SslTcpServ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\source\repos\client_serv\SslTcpServ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\1\source\repos\client_serv\SslTcpServ\obj\Debug\SslTcp.exe.config
+C:\Users\1\source\repos\client_serv\SslTcpServ\obj\Debug\SslTcp.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\client_serv\SslTcpServ\obj\Debug\SslTcp.csproj.CopyComplete
+C:\Users\1\source\repos\client_serv\SslTcpServ\obj\Debug\SslTcp.exe
+C:\Users\1\source\repos\client_serv\SslTcpServ\obj\Debug\SslTcp.pdb
+C:\Users\1\source\repos\client_serv\SslTcpServ\obj\Debug\SslTcp.csproj.AssemblyReference.cache
+F:\AllProjects\client_serv\SslTcpServ\bin\Debug\SslTcp.exe.config
+F:\AllProjects\client_serv\SslTcpServ\bin\Debug\SslTcp.exe
+F:\AllProjects\client_serv\SslTcpServ\bin\Debug\SslTcp.pdb
+F:\AllProjects\client_serv\SslTcpServ\bin\Debug\System.Memory.dll
+F:\AllProjects\client_serv\SslTcpServ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\AllProjects\client_serv\SslTcpServ\bin\Debug\System.Text.Json.dll
+F:\AllProjects\client_serv\SslTcpServ\bin\Debug\System.Numerics.Vectors.dll
+F:\AllProjects\client_serv\SslTcpServ\bin\Debug\System.Buffers.dll
+F:\AllProjects\client_serv\SslTcpServ\bin\Debug\System.Text.Encodings.Web.dll
+F:\AllProjects\client_serv\SslTcpServ\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\AllProjects\client_serv\SslTcpServ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\AllProjects\client_serv\SslTcpServ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\AllProjects\client_serv\SslTcpServ\obj\Debug\SslTcp.csprojAssemblyReference.cache
+F:\AllProjects\client_serv\SslTcpServ\obj\Debug\SslTcp.exe.config
+F:\AllProjects\client_serv\SslTcpServ\obj\Debug\SslTcp.csproj.CoreCompileInputs.cache
+F:\AllProjects\client_serv\SslTcpServ\obj\Debug\SslTcp.csproj.CopyComplete
+F:\AllProjects\client_serv\SslTcpServ\obj\Debug\SslTcp.exe
+F:\AllProjects\client_serv\SslTcpServ\obj\Debug\SslTcp.pdb
+F:\AllProjects\PetProjects\client_serv\SslTcpServ\bin\Debug\SslTcp.exe.config
+F:\AllProjects\PetProjects\client_serv\SslTcpServ\bin\Debug\SslTcp.exe
+F:\AllProjects\PetProjects\client_serv\SslTcpServ\bin\Debug\SslTcp.pdb
+F:\AllProjects\PetProjects\client_serv\SslTcpServ\bin\Debug\System.Memory.dll
+F:\AllProjects\PetProjects\client_serv\SslTcpServ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\AllProjects\PetProjects\client_serv\SslTcpServ\bin\Debug\System.Text.Json.dll
+F:\AllProjects\PetProjects\client_serv\SslTcpServ\bin\Debug\System.Numerics.Vectors.dll
+F:\AllProjects\PetProjects\client_serv\SslTcpServ\bin\Debug\System.Buffers.dll
+F:\AllProjects\PetProjects\client_serv\SslTcpServ\bin\Debug\System.Text.Encodings.Web.dll
+F:\AllProjects\PetProjects\client_serv\SslTcpServ\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\AllProjects\PetProjects\client_serv\SslTcpServ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\AllProjects\PetProjects\client_serv\SslTcpServ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\AllProjects\PetProjects\client_serv\SslTcpServ\obj\Debug\SslTcp.csprojAssemblyReference.cache
+F:\AllProjects\PetProjects\client_serv\SslTcpServ\obj\Debug\SslTcp.exe.config
+F:\AllProjects\PetProjects\client_serv\SslTcpServ\obj\Debug\SslTcp.csproj.CoreCompileInputs.cache
+F:\AllProjects\PetProjects\client_serv\SslTcpServ\obj\Debug\SslTcp.csproj.CopyComplete
+F:\AllProjects\PetProjects\client_serv\SslTcpServ\obj\Debug\SslTcp.exe
+F:\AllProjects\PetProjects\client_serv\SslTcpServ\obj\Debug\SslTcp.pdb

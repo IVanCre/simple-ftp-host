@@ -1,0 +1,7 @@
+D:\repos\DonorFunc\bin\Debug\DonorFunc.exe.config
+D:\repos\DonorFunc\bin\Debug\DonorFunc.exe
+D:\repos\DonorFunc\bin\Debug\DonorFunc.pdb
+D:\repos\DonorFunc\obj\Debug\DonorFunc.csprojAssemblyReference.cache
+D:\repos\DonorFunc\obj\Debug\DonorFunc.csproj.CoreCompileInputs.cache
+D:\repos\DonorFunc\obj\Debug\DonorFunc.exe
+D:\repos\DonorFunc\obj\Debug\DonorFunc.pdb

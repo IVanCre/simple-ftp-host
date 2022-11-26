@@ -1,0 +1,17 @@
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Release\SslTcp.exe.config
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Release\SslTcp.exe
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Release\SslTcp.pdb
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Release\System.Memory.dll
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Release\System.Text.Json.dll
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Release\System.Numerics.Vectors.dll
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Release\System.Buffers.dll
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Release\System.Text.Encodings.Web.dll
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Release\System.Threading.Tasks.Extensions.dll
+F:\AllProjects\repos\SslTcpServ+Clnt\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+F:\AllProjects\repos\SslTcpServ+Clnt\obj\Release\SslTcp.csprojAssemblyReference.cache
+F:\AllProjects\repos\SslTcpServ+Clnt\obj\Release\SslTcp.exe.config
+F:\AllProjects\repos\SslTcpServ+Clnt\obj\Release\SslTcp.csproj.CoreCompileInputs.cache
+F:\AllProjects\repos\SslTcpServ+Clnt\obj\Release\SslTcp.csproj.CopyComplete
+F:\AllProjects\repos\SslTcpServ+Clnt\obj\Release\SslTcp.exe
+F:\AllProjects\repos\SslTcpServ+Clnt\obj\Release\SslTcp.pdb
